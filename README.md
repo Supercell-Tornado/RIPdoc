@@ -1,0 +1,2 @@
+# RIPdoc
+RIP Manual
